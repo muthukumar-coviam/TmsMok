@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489273263591",
+    "firebase_url": "https://tmsmockup.firebaseio.com",
+    "project_id": "tmsmockup",
+    "storage_bucket": "tmsmockup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489273263591:android:8d97d2849973dc97662942",
+        "android_client_info": {
+          "package_name": "com.visusi.tmsmockup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489273263591-a303f4t6dlfm6kd4dhp29ttqkc2dlo9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYflT-LwvuHoeSA1nzy7DBoHjqQ47Ii4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489273263591-a303f4t6dlfm6kd4dhp29ttqkc2dlo9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

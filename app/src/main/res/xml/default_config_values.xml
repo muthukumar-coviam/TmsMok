@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultMap xmlns:android="http://schemas.android.com/apk/res/android">
+    <entry>
+        <key>isEnabled</key>
+        <value>false</value>
+        <key>androidVersionDetails</key>
+        <value>hel</value>
+        <key>register</key>
+        <value>true</value>
+        <key>sign_in</key>
+        <value>true</value>
+    </entry>
+
+</defaultMap>
